@@ -7,11 +7,11 @@
 
 ## Current behavior
 
-After [the first PR](https://github.com/antoniszymanski/renovate-repro-45565/pull/2) is merged, [an identical PR](https://github.com/antoniszymanski/renovate-repro-45565/pull/3) **is** created.
+After [the first PR](https://github.com/antoniszymanski/renovate-repro-45565/pull/1) is merged, [an identical PR](https://github.com/antoniszymanski/renovate-repro-45565/pull/3) **is** created.
 
 ## Expected behavior
 
-After [the first PR](https://github.com/antoniszymanski/renovate-repro-45565/pull/2) is merged, [an identical PR](https://github.com/antoniszymanski/renovate-repro-45565/pull/3) **isn't** created.
+After [the first PR](https://github.com/antoniszymanski/renovate-repro-45565/pull/1) is merged, [an identical PR](https://github.com/antoniszymanski/renovate-repro-45565/pull/3) **isn't** created.
 
 ## Link to the Renovate issue or Discussion
 
