@@ -23,7 +23,7 @@
     "@optique/man": "^1.2.1",
     "@tsconfig/bun": "^1.0.11",
     "@tsconfig/strictest": "^2.0.8",
-    "@ttsc/unplugin": "^0.28.1",
+    "@ttsc/unplugin": "^0.30.0",
     "@types/bun": "^1.4.0",
     "oxfmt": "^0.65.0",
     "oxlint": "^1.79.0",
